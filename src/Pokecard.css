@@ -1,0 +1,10 @@
+.Pokecard-container {
+  background-color: #bfbfbf;
+  border-radius: 5%;
+  display: inline-block;
+  border-style: solid;
+  border-color: black;
+  height: 300px;
+  width: 200px;
+  margin: 40px;
+}
